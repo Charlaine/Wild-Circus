@@ -1,0 +1,268 @@
+
+/* Header */
+
+header {
+	text-align: center;
+}
+a {
+	color: rgba(239, 239, 239, 1);
+	font-family: comic Sans MS, Impact, Verdana, Arial;
+	font-size: 22px;
+}
+h1{
+	font-size: 150px;
+	color: rgba(230, 201, 100, 0.9);
+	font-family: "Londrina Shadow", comic Sans MS;
+	text-shadow: 20px 20px 15px black;
+}
+
+/* Navigation & Body */
+
+ul {
+	background: rgba(0, 0, 0, 0.2);
+}
+li {
+	display: inline;
+	padding: 0px 50px 0px 50px;
+}
+body {
+	background: url("http://imgur.com/m5JdqYQ.jpg");
+	background-size: 100%;
+	background-position: center, no-repeat;
+	position: relative;
+	font-family: comic Sans MS, Impact, Verdana, Arial;
+}
+
+/* Programm */
+
+h2 {
+	font-style: italic;
+}
+h3 {
+	text-align: center;
+	color: rgba(255, 21, 185, 1);
+	font-size: 30px;
+	font-weight: bold;
+	margin: 50px 0px 0px 0px;
+}
+small {
+	color: rgba(230, 201, 100, 1);
+}
+p {
+	color: rgba(230, 201, 100, 1);
+	font-size: 30px;
+	margin: -30px 0px 0px 0px;
+}
+.Programm {
+	font-family: "Londrina Shadow", cursive;
+	font-size: 40px;
+	color: rgba(32, 247, 9, 0.7);
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	position: absolute;
+	margin-left: 45%;
+	margin-top: 10%;
+}
+
+/*Performs*/
+
+.ActI {
+	font-family: "Londrina Shadow", cursive;
+	font-size: 40px;
+	color: rgba(32, 247, 9, 0.7);
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	font-weight: bold;
+	padding: 200px 0px 0px 0px;
+}
+.ActII {
+	font-family: "Londrina Shadow", cursive;
+	font-size: 40px;
+	color: rgba(32, 247, 9, 0.7);
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	font-weight: bold;
+	padding: 200px 0px 0px 0px;
+}
+.ActIII {
+	font-family: "Londrina Shadow", cursive;
+	font-size: 40px;
+	color: rgba(32, 247, 9, 0.7);
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	font-weight: bold;
+	padding: 200px 0px 0px 0px;
+}
+
+/*Img*/
+
+img {
+	float: left;
+	margin-left: 10%;
+	position: relative;
+	padding: 100px 0px 80px 0px;
+}
+.Augustus {
+	float: right;
+	margin-top: 35%;
+	padding: 0px 151px 0px 0px;
+}
+.Lights {
+	position: absolute;
+	margin-top: 23%;
+	margin-left: 75%;
+}
+.contorsion {
+	position: absolute;
+    margin-left: 18%;
+	margin-top: 28%;
+    text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+.contorsion2 {
+	position: absolute;
+	margin-left: 52%;
+	margin-top: 28%;
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+.trapeze {
+	position: absolute;
+    margin-left: 18%;
+	margin-top: 22%;
+    text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+.funambules{
+	position: absolute;
+	margin-left: 46%;
+	margin-top: 25%;
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+.bolas {
+	position: absolute;
+    margin-left: 17%;
+	margin-top: 28%;
+    text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+.CracheurDeFeu {
+	position: absolute;
+    margin-left: 52%;
+	margin-top: 28%;
+    text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+.Circus {
+	position: absolute;
+    margin-left: 17%;
+	margin-top: 32%;
+    text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+.Parade {
+	position: absolute;
+	margin-left: 52%;
+	margin-top: 32%;
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	color: rgba(255, 21, 185, 1);
+}
+
+/*Subheads*/
+
+.subhead {
+	position: absolute;
+	margin-top: 380px;
+	margin-left: 115px;
+}
+.subhead2 {
+	position: absolute;
+	margin-top: 505px;
+	margin-left: 85px;
+}
+.subhead3 {
+	position: absolute;
+	margin-top: 437px;
+	margin-left: 165px;
+}
+.subhead4 {
+	position: absolute;
+	margin-top: 380px;
+	margin-left: 142px;
+}
+.subhead5 {
+	position: absolute;
+	margin-top: 370px;
+	margin-left: 165px;
+}
+.subhead6 {
+	position: absolute;
+	margin-top: 370px;
+	margin-left: 140px;
+}
+
+/*Footer*/
+
+footer {
+	margin-top: 60%;
+	text-align: right;
+	padding: 0px 20px 0px 0px;
+}
+button {
+	font-family: comic Sans MS, Impact, Verdana, Arial;
+	margin-bottom: 2%;
+}
+.Foot {
+	position: relative;
+	margin: -462px 0px 0px 0px;
+}
+.Foot2 {
+	position: relative;
+	margin: -497px 0px 0px 0px;
+}
+.Foot3 {
+	position: relative;
+	margin: -602px 0px 0px 0px;
+}
+.Foot4 {
+	position: relative;
+	margin: -905px 0px 0px 0px;
+}
+.Num {
+	color: rgba(239, 239, 239, 1);
+	font-size: 20px;
+	position: absolute;
+	margin-left: 2%;
+	margin-top: -1.8%;
+}
+
+
+/* Infos */
+
+.AboutUs {
+	font-family: "Londrina Shadow", cursive;
+	font-size: 40px;
+	color: rgba(32, 247, 9, 0.7);
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	font-weight: bold;
+	padding: 200px 0px 0px 0px;
+}
+.Prices {
+	font-family: "Londrina Shadow", cursive;
+	font-size: 38px;
+	color: rgba(32, 247, 9, 0.7);
+	text-align: center;
+	text-shadow: 12px 12px 10px black;
+	font-weight: bold;
+	padding: 140px 0px 0px 0px;
+}
